@@ -12,7 +12,6 @@ Focused on building projects and learning by doing
 <a href="https://www.linkedin.com/in/harshit-navik-299519326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit navik" height="30" width="40" /></a>
 <a href="https://instagram.com/_.hrxit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hrxit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_localhost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_localhost" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/profile/workwith284e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="localhost" height="30" width="40" /></a>
 </p>
 
 ---
