@@ -1,7 +1,7 @@
 # Hi, I'm Harshit
 
 MERN stack developer  
-Beginner programmer  
+
 Focused on building projects and learning by doing  
 
 ---
