@@ -1,54 +1,16 @@
-# Hi, I'm Harshit
+<h3 align="center">A passionate frontend developer from India</h3>
 
-MERN stack developer  
-Beginner programmer  
-Focused on building projects and learning by doing  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-navik&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-navik" /> </p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_hrxit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_hrxit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit navik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit navik" height="30" width="40" /></a>
+<a href="https://instagram.com/_.hrxit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hrxit" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/harxit_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harxit_27" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_localhost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_localhost" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/localhost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="localhost" height="30" width="40" /></a>
+</p>
 
-## Tech Stack
-
-**Languages**  
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)  
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)  
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)  
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)  
-
-**Database**  
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)  
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)  
-![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)  
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat&logo=visual-studio-code)  
-
----
-
-## What I Do
-
-- Build web projects  
-- Learn and experiment with new technologies  
-
----
-
-## What You'll Find Here
-
-- Web development projects  
-- Full-stack applications  
-- Learning repositories  
-
----
-
-## Contact
-
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-profile  
-- Portfolio: your-portfolio-link  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
