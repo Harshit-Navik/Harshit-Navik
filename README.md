@@ -7,7 +7,28 @@ Focused on building projects and learning by doing
 ---
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![ReactJS](https://img.shields.io/badge/ReactJS-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/NextJS-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![NodeJS](https://img.shields.io/badge/NodeJS-0A0A0A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Prisma](https://img.shields.io/badge/Prisma-0A0A0A?style=for-the-badge&logo=prisma&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-0A0A0A?style=for-the-badge&logo=pnpm&logoColor=F69220)
+![npm](https://img.shields.io/badge/npm-0A0A0A?style=for-the-badge&logo=npm&logoColor=CB3837)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-0A0A0A?style=for-the-badge&logo=bun&logoColor=F9F1E1)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=DC382D)
 
 ---
 
